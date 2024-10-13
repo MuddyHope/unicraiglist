@@ -1,0 +1,7 @@
+fastapi~=0.113.0
+uvicorn~=0.31.1
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]~=1.7.4
+cryptography
+pydantic~=2.8.0
